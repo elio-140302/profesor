@@ -1,0 +1,9 @@
+com\example\proyecto\profesor\ProyectoProfesorApplication.class
+profesorentity\Profesor.class
+profesorconfiguracion\WebSecurityConfig.class
+profesorconfiguracion\GlobalControllerAdvice.class
+profesorwebcontroller\ProfesorWebController.class
+profesorrepositorio\ProfesorRepository.class
+profesorservice\ProfesorService.class
+profesorconfiguracion\MvcConfig.class
+profesorcontroller\ProfesorController.class
